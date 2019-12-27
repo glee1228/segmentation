@@ -18,9 +18,20 @@ Please leave your questions at donghoon.rhie@gmail.com I'll spend as much time a
 
 
 학습 데이터 다운로드
+
+### [data-MUHAN.zip 다운로드](https://drive.google.com/drive/folders/1bMdWsK8ls44bZ1X4d5QwXsYUdelP04VT?usp=sharing)
+
+코드 다운로드
+
+```
+git clone https://github.com/glee1228/segmentation
+```
+
+학습 데이터 위치 설정
+
 ```
 $ mkdir data; cd data
-$ data-MUHAN.zip 설치(자체 데이터셋)
+$ mv 원래 data-MUHAN.zip경로 .
 $ unzip data-MUHAN.zip
 $ rm data-MUHAN.zip
 $ cd ..
