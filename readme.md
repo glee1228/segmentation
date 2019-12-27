@@ -12,7 +12,21 @@ Please leave your questions at donghoon.rhie@gmail.com I'll spend as much time a
 * 256 x 256 단위 패치
 * 크랙이 없는 부분은 제거
 
-
+## Requirements
+```
+python==3.6
+Pillow
+matplotlib
+numpy==1.14.5
+opencv-python
+pandas
+torch==0.3.1
+torchvision==0.2.1
+scipy
+tqdm
+scikit-image
+torchtext==0.2.3
+```
 
 ## Usage
 
@@ -26,6 +40,12 @@ Please leave your questions at donghoon.rhie@gmail.com I'll spend as much time a
 ```
 git clone https://github.com/glee1228/segmentation
 ```
+
+Requirements.txt 설치
+```
+pip3 install -r requirements.txt
+```
+
 
 학습 데이터 위치 설정
 
