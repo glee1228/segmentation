@@ -33,7 +33,7 @@ torchtext==0.2.3
 
 학습 데이터 다운로드
 
-### [data-MUHAN.zip 다운로드](https://drive.google.com/drive/folders/1bMdWsK8ls44bZ1X4d5QwXsYUdelP04VT?usp=sharing)
+### 공유한 구글 드라이브 링크에서 data-MUHAN.zip 다운로드
 
 코드 다운로드
 
